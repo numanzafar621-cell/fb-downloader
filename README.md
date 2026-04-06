@@ -1,1 +1,1 @@
-# fb-downloader
+shotlink-tool
